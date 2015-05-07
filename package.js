@@ -18,7 +18,7 @@ Package.on_use(function(api){
     'aldeed:collection2@2.3.2',
     'aldeed:autoform@4.2.2 || 5.0.0',
     'aldeed:template-extension@3.1.1',
-    'alanning:roles@1.2.13',
+    'nicolaslopezj:roles@1.0.5',
     'raix:handlebar-helpers@0.2.4',
     'reywood:publish-composite@1.3.5',
     'momentjs:moment@2.9.0',
